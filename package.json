@@ -1,6 +1,6 @@
 {
 	"name": "xcode-vscode-theme",
-	"displayName": "Xcode VSCode Default Theme",
+	"displayName": "Xcode VSCode Theme",
 	"description": "Xcode Themes with default VSCode UI",
 	"version": "1.0.0",
 	"publisher": "Nataniel4",
@@ -11,9 +11,11 @@
 		"color-theme",
 		"macos",
 		"xcode",
-		"catalina"
+		"catalina",
+		"vscode",
+		"default"
 	],
-	"preview": true,
+	"preview": false,
 	"homepage": "https://github.com/Nataniel4/xcode-vscode-theme",
 	"repository": {
 		"type": "git",
@@ -30,27 +32,32 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Xcode VSCode Default Light - Default",
+				"label": "Xcode VSCode Light - Default",
 				"uiTheme": "vs",
 				"path": "./themes/color/light/xcode-vscode-default.json"
 			},
 			{
-				"label": "Xcode VSCode Default Light - Low Key",
+				"label": "Xcode VSCode Light - Low Key",
 				"uiTheme": "vs",
 				"path": "./themes/color/light/xcode-vscode-low-key.json"
 			},
 			{
-				"label": "Xcode VSCode Default Dark - Civic",
+				"label": "Xcode VSCode Dark - Civic",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/dark/xcode-vscode-civic.json"
 			},
 			{
-				"label": "Xcode VSCode Default Dark - Catalina",
+				"label": "Xcode VSCode Dark - Catalina",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/dark/xcode-vscode-catalina.json"
 			},
 			{
-				"label": "Xcode VSCode Default Dark - Default",
+				"label": "Xcode VSCode Dark - Catalina Bold",
+				"uiTheme": "vs-dark",
+				"path": "./themes/color/dark/xcode-vscode-catalina-bold.json"
+			},
+			{
+				"label": "Xcode VSCode Dark - Default",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/dark/xcode-vscode-default-dark.json"
 			}
