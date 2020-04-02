@@ -9,7 +9,7 @@
 - Xcode Default Dark Bold (Catalina) **Recommended**
 
 ## Recommended settings
-```json
+```js
 {
 	/* Editor */
 	"editor.fontFamily": "SF Mono",
