@@ -11,9 +11,15 @@
 ## Recommended settings
 ```json
 {
+	/* Editor */
 	"editor.fontFamily": "SF Mono",
 	"editor.fontWeight": "500",
-	"editor.fontSize": 12
+	"editor.fontSize": 12,
+	/* Window */
+	"window.nativeTabs": true, // macOS Only
+	"window.titleBarStyle": "native",
+	/* Workbench */
+	"workbench.editor.showIcons": false
 }
 ```
 
