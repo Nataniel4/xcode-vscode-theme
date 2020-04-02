@@ -1,8 +1,8 @@
 {
 	"name": "xcode-vscode-theme",
-	"displayName": "Xcode VSCode Theme",
-	"description": "Xcode Themes with default VSCode UI",
-	"version": "1.0.1",
+	"displayName": "Xcode Syntax Themes",
+	"description": "Xcode Syntax Themes (VSCode Default UI)",
+	"version": "1.0.2",
 	"publisher": "Nataniel4",
 	"engines": {
 		"vscode": "^1.25.0"
@@ -13,6 +13,7 @@
 		"xcode",
 		"catalina",
 		"vscode",
+		"syntax",
 		"default"
 	],
 	"preview": false,
@@ -32,32 +33,32 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Xcode VSCode Light - Default",
+				"label": "Xcode Syntax Default Light",
 				"uiTheme": "vs",
 				"path": "./themes/color/light/xcode-vscode-default.json"
 			},
 			{
-				"label": "Xcode VSCode Light - Low Key",
+				"label": "Xcode Syntax Default Light (Low Key)",
 				"uiTheme": "vs",
 				"path": "./themes/color/light/xcode-vscode-low-key.json"
 			},
 			{
-				"label": "Xcode VSCode Dark - Civic",
+				"label": "Xcode Syntax Civic",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/dark/xcode-vscode-civic.json"
 			},
 			{
-				"label": "Xcode VSCode Dark - Catalina",
+				"label": "Xcode Syntax Dark (Catalina)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/dark/xcode-vscode-catalina.json"
 			},
 			{
-				"label": "Xcode VSCode Dark - Catalina Bold",
+				"label": "Xcode Syntax Dark Bold (Catalina)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/dark/xcode-vscode-catalina-bold.json"
 			},
 			{
-				"label": "Xcode VSCode Dark - Default",
+				"label": "Xcode Syntax Default Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/dark/xcode-vscode-default-dark.json"
 			}

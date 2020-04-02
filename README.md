@@ -1,3 +1,40 @@
-# Xcode Themes - VSCode Default UI
+# Xcode Syntax Themes (VSCode Default UI)
 
-Xcode themes with VSCode default UI
+## Available Themes
+- Xcode Default Light
+- Xcode Default Light (Low Key)
+- Xcode Civic
+- Xcode Default Dark
+- Xcode Default Dark (Catalina)
+- Xcode Default Dark Bold (Catalina) **Recommended**
+
+## Recommended settings
+```json
+{
+	"editor.fontFamily": "SF Mono",
+	"editor.fontWeight": "500",
+	"editor.fontSize": 12
+}
+```
+
+## Screenshots
+
+**Xcode Default Light**
+![Default](https://github.com/Nataniel4/xcode-vscode-theme/raw/master/images/default.png)
+
+**Xcode Default Light (Low Key)**
+![LowKey](https://github.com/Nataniel4/xcode-vscode-theme/raw/master/images/low-key.png)
+
+**Xcode Civic**
+![Civic](https://github.com/Nataniel4/xcode-vscode-theme/raw/master/images/civic.png)
+
+**Xcode Default Dark**
+![Dark](https://github.com/Nataniel4/xcode-vscode-theme/raw/master/images/default-dark.png)
+
+**Xcode Default Dark (Catalina)**
+![Catalina](https://github.com/Nataniel4/xcode-vscode-theme/raw/master/images/catalina.png)
+
+**Xcode Default Dark Bold (Catalina)**
+![CatalinaBold](https://github.com/Nataniel4/xcode-vscode-theme/raw/master/images/default.png)
+
+Special thanks to [davidwaters](https://github.com/davidbwaters/macos-modern-vscode-theme) who is the original creator of the Xcode Themes.
