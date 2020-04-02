@@ -2,7 +2,7 @@
 	"name": "xcode-vscode-theme",
 	"displayName": "Xcode VSCode Theme",
 	"description": "Xcode Themes with default VSCode UI",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Nataniel4",
 	"engines": {
 		"vscode": "^1.25.0"
